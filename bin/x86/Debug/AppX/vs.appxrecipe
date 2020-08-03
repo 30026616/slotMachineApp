@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-07-29T23:42:38.664</Modified>
+      <Modified>2020-08-03T21:48:29.152</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\SlotGameWorkshop.exe">
       <PackagePath>entrypoint\SlotGameWorkshop.exe</PackagePath>
-      <Modified>2020-07-29T23:42:38.309</Modified>
+      <Modified>2020-08-03T21:48:28.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,9 +46,29 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-12-06T08:24:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-07-29T23:35:01.539</Modified>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\club.png">
+      <PackagePath>Assets\club.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\diamond.png">
+      <PackagePath>Assets\diamond.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\gamebackground.png">
+      <PackagePath>Assets\gamebackground.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\heart.png">
+      <PackagePath>Assets\heart.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\lose.png">
+      <PackagePath>Assets\lose.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\LoseGame.png">
+      <PackagePath>Assets\LoseGame.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -84,17 +104,33 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-06-16T13:58:55.952</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\spade.png">
+      <PackagePath>Assets\spade.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\win.png">
+      <PackagePath>Assets\win.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\WinGame.png">
+      <PackagePath>Assets\WinGame.png</PackagePath>
+      <Modified>2020-08-03T20:48:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-07-29T23:35:01.539</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\SlotGameWorkshop.xr.xml">
       <PackagePath>SlotGameWorkshop.xr.xml</PackagePath>
-      <Modified>2020-07-29T23:42:38.196</Modified>
+      <Modified>2020-08-03T21:13:27.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-07-29T23:42:38.199</Modified>
+      <Modified>2020-08-03T21:14:02.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-07-29T23:42:38.200</Modified>
+      <Modified>2020-08-03T21:14:02.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -102,11 +138,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-07-29T23:41:44.503</Modified>
+      <Modified>2020-08-03T21:13:28.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\Core\SlotGameWorkshop.exe">
       <PackagePath>SlotGameWorkshop.exe</PackagePath>
-      <Modified>2020-07-29T23:42:38.661</Modified>
+      <Modified>2020-08-03T21:48:29.148</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

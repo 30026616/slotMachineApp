@@ -34,8 +34,23 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\club.png">
+      <PackagePath>Assets\club.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\diamond.png">
+      <PackagePath>Assets\diamond.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\gamebackground.png">
+      <PackagePath>Assets\gamebackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\heart.png">
+      <PackagePath>Assets\heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\lose.png">
+      <PackagePath>Assets\lose.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\LoseGame.png">
+      <PackagePath>Assets\LoseGame.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -63,6 +78,18 @@
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\spade.png">
+      <PackagePath>Assets\spade.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\win.png">
+      <PackagePath>Assets\win.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Assets\WinGame.png">
+      <PackagePath>Assets\WinGame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\30026616\source\repos\SlotGameWorkshop\bin\x86\Debug\SlotGameWorkshop.xr.xml">
       <PackagePath>SlotGameWorkshop.xr.xml</PackagePath>

@@ -5,6 +5,19 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotGameWorkshop", "SlotGameWorkshop.csproj", "{1595028C-8498-45A6-9651-2B433218E6E3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16B45AE1-CAFC-48E8-85A2-AD61D62B75E8}"
+	ProjectSection(SolutionItems) = preProject
+		Assets\club.png = Assets\club.png
+		Assets\diamond.png = Assets\diamond.png
+		Assets\gamebackground.png = Assets\gamebackground.png
+		Assets\heart.png = Assets\heart.png
+		Assets\lose.png = Assets\lose.png
+		Assets\LoseGame.png = Assets\LoseGame.png
+		Assets\spade.png = Assets\spade.png
+		Assets\win.png = Assets\win.png
+		Assets\WinGame.png = Assets\WinGame.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM

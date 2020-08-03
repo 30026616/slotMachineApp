@@ -9,7 +9,13 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Height="79" Margin="146,82,0,0" Text="You have $" TextWrapping="Wrap" VerticalAlignment="Top" Width="363" FontSize="20"/>
+        <TextBlock x:ConnectionId='2' x:Name="textBlockDollar" HorizontalAlignment="Left" Height="79" Margin="98,82,0,0" Text="You have $" TextWrapping="Wrap" VerticalAlignment="Top" Width="363" FontSize="20"/>
+        <Image x:ConnectionId='3' x:Name="imageWheel1" HorizontalAlignment="Left" Height="120" Margin="146,240,0,0" VerticalAlignment="Top" Width="120"/>
+        <Image x:ConnectionId='4' x:Name="imageWheel2" HorizontalAlignment="Left" Height="120" Margin="272,240,0,0" VerticalAlignment="Top" Width="120"/>
+        <Image x:ConnectionId='5' x:Name="imageWheel3" HorizontalAlignment="Left" Height="120" Margin="397,240,0,0" VerticalAlignment="Top" Width="120"/>
+        <Image x:ConnectionId='6' x:Name="imageWinLose" HorizontalAlignment="Left" Height="70" Margin="143,164,0,0" VerticalAlignment="Top" Width="372"/>
+        <Button x:ConnectionId='7' Content="Button" Margin="146,507,0,0" VerticalAlignment="Top" Name="buttonAddCash"                            />
+        <Button x:ConnectionId='8' Content="Play" x:Name="buttonPlay" Height="32" Margin="232,440,0,0" VerticalAlignment="Top" Width="225"                         />
 
     </Grid>
 </Page>
